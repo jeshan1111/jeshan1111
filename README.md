@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jesper Hansen 👋
 
-<!--
-**jeshan1111/jeshan1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner Python developer passionate about web scraping and automation. I build tools to help businesses collect and organize data efficiently.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: Python
+- **Tools**: Web Scraping (BeautifulSoup, Requests), Data Processing (Pandas)
+- **Learning**: Data Analysis, Automation Scripts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[Python Web Scraper](https://github.com/jeshan1111/python-web-scraper)**: A Python script that extracts quotes from a website and displays them in the terminal.
+
+## Contact
+- 📧 Email: jespersethhansen@gmail.com
+- 💼 Open to freelance opportunities on Upwork or Fiverr.
+
+*Currently learning more about Python and building tools to solve real-world problems!*
